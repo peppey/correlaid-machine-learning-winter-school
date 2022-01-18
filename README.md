@@ -31,7 +31,7 @@ Once the setup is complete, you can run any notebook by calling
 
 ## Data
 
-The data to be analyzed is  from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php), the [Mushroom Data Set](https://www.kaggle.com/uciml/forest-cover-type-dataset).
+The data to be analyzed is  from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php), the [Forest Cover Type Dataset](https://www.kaggle.com/uciml/forest-cover-type-dataset).
 ...
 
 It's a multivariate data set with 22 attributes and 8124 observations, donated in the year 1987. Mushroom records are drawn from The Audubon Society Field Guide to North American Mushrooms (1981). G. H. Lincoff (Pres.), New York: Alfred A. Knopf 
